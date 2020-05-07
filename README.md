@@ -5,7 +5,7 @@
 
 
 # 2: Create a Jenkins job for Production with master branch  & give the repo link. 
-<img src ="IMG_20200507_111755.jpg" width=150>
+<img src = "IMG_20200507_111755.jpg" width=150>
 
 In the Execute Shell Section, give the commands to copy the  code to the web volume folder that is linked to the Production Server container.
 
