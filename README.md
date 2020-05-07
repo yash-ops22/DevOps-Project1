@@ -17,8 +17,18 @@ In the execute shell section, given copy command to copy the code.
 # 4 : In Our third Jenkins task the succeeded   task will run that would automatically merge the two branches & deploy the tested code on the main Production Server. 
 <img src ="IMG_20200507_111730.jpg" width=150>
 
-In the third task, along with the repo link, we need to provide the GitHub ctredentials so that it is authenticated to merge the two branches on GitHub.
- 
-Used the Merge Before Build option to merge the two branches together.
+# In the third task, along with the repo link, we need to provide the GitHub ctredentials so that it is authenticated to merge the two branches on GitHub.
 
-Using the Git Publisher option.
+
+<img src ="IMG_20200507_141433.jpg" width=200 >
+
+ 
+# Used the Merge Before Build option to merge the two branches together.
+
+
+<img src="IMG20200507110419.jpg" width=200>
+
+
+# Using the Git Publisher option.
+
+<img src="IMG_20200507_135733.jpg" width=200>
