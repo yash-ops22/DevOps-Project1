@@ -1,4 +1,4 @@
-# jenkinsproject:
+# JenkinsProject:
 
 # 1: Launching 2 docker containers named production1_os and test1_os from the httpd image. 
    <img src ="IMG_20200507_110612.jpg" width=200>
